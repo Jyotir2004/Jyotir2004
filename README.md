@@ -1,10 +1,10 @@
 <!-- Python Animated Banner -->
+<!-- Python Animated Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+  <img src=C:\Users\dell\Downloads\make_it_gif.gif
        alt="Python Animation"
        width="800">
 </p>
-
 
 
 <p align="center">
