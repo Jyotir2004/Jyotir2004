@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/python-ai-hero.png" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
+  <img src="./assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Jyotir</h1>
@@ -16,8 +16,9 @@
 
 <p align="center">
   <a href="https://github.com/Jyotir2004"><img src="https://img.shields.io/badge/GitHub-Jyotir2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=Jyotir2004&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -163,12 +164,15 @@ class Jyotir:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| 🤖 **AI Travel Agent** | Multi-agent AI travel assistant that plans, prices and coordinates trips end to end. | `Python` `FastAPI` `LangChain` `MCP` `MongoDB` `LLMs` |
-| 🏥 **MedSync – AI Clinic Assistant** | AI clinic assistant handling appointment booking, cancellation, slot management, patient interaction and voice transcription. | `Python` `FastAPI` `LLMs` `Speech-to-Text` |
-| 📚 **RAG Chatbot** | Document question-answering over uploaded PDFs with semantic retrieval and cited answers. | `FastAPI` `LangChain` `ChromaDB` `OpenAI Embeddings` |
-| 🏏 **IPL Cricket Dashboard** | Interactive cricket analytics dashboard with season, team and player breakdowns. | `Python` `Streamlit` `Pandas` `Visualization` |
+| Project | Description | Tech | Repo |
+| :--- | :--- | :--- | :---: |
+| 🤖 **AI Travel Agent** | Multi-agent AI travel assistant that plans, prices and coordinates trips end to end. | `Python` `FastAPI` `LangChain` `MCP` `MongoDB` `LLMs` | [Repo](https://github.com/Jyotir2004/travel_agent_2.0) |
+| 🏥 **MedSync – AI Clinic Assistant** | AI clinic assistant handling appointment booking, cancellation, slot management, patient interaction and voice transcription. | `Python` `FastAPI` `LLMs` `Speech-to-Text` | [Repo](https://github.com/Jyotir2004/Medic-AI) |
+| 📚 **RAG Chatbot** | Document question-answering over uploaded PDFs with semantic retrieval and cited answers. | `FastAPI` `LangChain` `ChromaDB` `OpenAI Embeddings` | [Repo](https://github.com/Jyotir2004/RAG-Chatbot) |
+| 🔎 **AI Research Agent** | Autonomous research agent that gathers, filters and summarises sources into a usable brief. | `Python` `LangChain` `LLMs` `Agents` | [Repo](https://github.com/Jyotir2004/AI-Research-Agent) |
+| 🛒 **CommerceNetAI** | AI-assisted e-commerce intelligence — product data, scraping and insight generation. | `Python` `FastAPI` `LLMs` | [Repo](https://github.com/Jyotir2004/CommerceNetAI) |
+| 📊 **HR Analytics Dashboard** | Attrition and workforce analytics across 1,470 employees with drill-down visuals. | `Power BI` `Data Analysis` | [Repo](https://github.com/Jyotir2004/hr-analytics-dashboard) |
+| 🏏 **IPL Cricket Dashboard** | Interactive cricket analytics dashboard with season, team and player breakdowns. | `Python` `Streamlit` `Pandas` `Visualization` | [Repo](YOUR_IPL_REPO_URL) |
 
 ---
 
@@ -247,9 +251,24 @@ Worked on data analysis and visualization using **Python** and **Excel**.
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/Jyotir2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn">
+  </a>
+  <a href="mailto:jyotiraditya20122004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Gmail">
+  </a>
+  <a href="https://my-portfolio-gs6v.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Jyotir2004" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-jyotiraditya--khatua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotiraditya20122004-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-my--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
