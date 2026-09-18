@@ -59,28 +59,29 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="195" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=FFD63B&text_color=C9D1D9&rank_icon=github" alt="Jyotir's GitHub stats">
-    </td>
-    <td>
-      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=donut&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="Most used languages">
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="195" src="https://streak-stats.demolab.com?user=Jyotir2004&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=FFD63B&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak">
-</p>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=FFD63B&text_color=C9D1D9&rank_icon=github" alt="Jyotir's GitHub stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=donut&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="Most used languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FFD63B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%">
-</p>
+<div align="center">
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Jyotir2004&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=FFD63B&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="GitHub trophies">
-</p>
+<div align="center">
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FFD63B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="GitHub trophies" />
+</div>
+
+<br />
 
 <p align="center">
   <i>Stat cards are generated live by GitHub; if one shows as a broken image it is the upstream service rate-limiting — it reappears on refresh.</i>
