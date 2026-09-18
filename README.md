@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jyotir
+# Hey 👋, I'm Jyotir
 
 ### AI/ML Engineer Trainee | Generative AI Engineer | Python Backend Developer
 
