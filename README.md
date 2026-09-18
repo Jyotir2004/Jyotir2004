@@ -1,7 +1,7 @@
 <!-- Python Animated Banner -->
 <!-- Python Animated Banner -->
 <p align="center">
-  <img src=C:\Users\dell\Downloads\make_it_gif.gif
+  <img src=https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif
        alt="Python Animation"
        width="800">
 </p>
