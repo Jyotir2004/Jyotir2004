@@ -1,5 +1,5 @@
-<a href=http://localhost:5000>
-  <img align="right" src="https://path-to-your-icon.png" width="60" alt="AI Assistant">
+<a href="http://localhost:5000">
+  <img align="right" src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assistant.svg" width="80">
 </a>
 
 <p align="center">
