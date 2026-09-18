@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Jyotir</h1>
