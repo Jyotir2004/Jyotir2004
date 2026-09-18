@@ -51,17 +51,31 @@
 
 ## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=FFD63B&text_color=C9D1D9&rank_icon=github" alt="Jyotir's GitHub stats">
+    </td>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=donut&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="Most used languages">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+  <img height="195" src="https://streak-stats.demolab.com?user=Jyotir2004&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=FFD63B&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jyotir2004&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FFD63B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <i>Stat cards are generated live by GitHub; if one shows as a broken image it is the upstream service rate-limiting — it reappears on refresh.</i>
 </p>
 
 ---
@@ -104,17 +118,53 @@ class Jyotir:
 
 ---
 
+<h3 align="center">⚙️ Everything I Build With</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="46" alt="Python">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="46" alt="MySQL">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="46" alt="MongoDB">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="46" alt="PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="46" alt="Redis">
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="46" alt="SQLite">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="46" alt="FastAPI">
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="46" alt="Flask">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="46" alt="Node.js">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="46" alt="PyTorch">
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="46" alt="TensorFlow">
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" height="46" alt="scikit-learn">
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" height="46" alt="OpenCV">
+  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="46" alt="Anaconda">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="46" alt="Git">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="46" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" height="46" alt="GitHub Actions">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="46" alt="Docker">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="46" alt="Linux">
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="46" alt="Windows">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="46" alt="VS Code">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="46" alt="Postman">
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="46" alt="Bash">
+  <img src="https://skillicons.dev/icons?i=markdown&theme=dark" height="46" alt="Markdown">
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="46" alt="Notion">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="46" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="46" alt="Vercel">
+</p>
+
 ## 🛠️ Tech Stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,bash,markdown&theme=dark" alt="Languages">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 <h4 align="center">AI / ML & Generative AI</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="AI/ML">
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning">
@@ -129,9 +179,8 @@ class Jyotir:
 
 <h4 align="center">Frameworks & Backend</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postman&theme=dark" alt="Frameworks">
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
@@ -140,9 +189,10 @@ class Jyotir:
 
 <h4 align="center">Databases & Vector Stores</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,sqlite&theme=dark" alt="Databases">
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/ChromaDB-FFB300?style=for-the-badge&logo=chromatic&logoColor=black" alt="ChromaDB">
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
@@ -150,9 +200,12 @@ class Jyotir:
 
 <h4 align="center">Tools & DevOps</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows,githubactions,notion,figma&theme=dark" alt="Tools">
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
