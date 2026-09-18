@@ -1,4 +1,21 @@
+<p align="center">
+  <img src="https://www.qodequay.com/wp-content/uploads/2025/08/why-python-for-ai-web-development.webp" alt="Python for AI & Web Development" width="100%">
+</p>
 
+<h1 align="center">Hey 👋, I'm Jyotir</h1>
+
+<p align="center">
+  <a href="https://github.com/Jyotir2004">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+Trainee;Generative+AI+Engineer;Python+Backend+Developer;LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <b>AI/ML Engineer Trainee · Generative AI Engineer · Python Backend Developer</b>
+</p>
+
+<p align="center">
+  🚀 Passionate about <b>Generative AI, LLMs, RAG, AI Agents</b> and <b>Backend Development</b>.
 </p>
 
 <p align="center">
@@ -149,3 +166,4 @@ Worked on data analysis and visualization using **Python** and **Excel**.
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+
