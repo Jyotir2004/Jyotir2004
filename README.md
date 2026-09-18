@@ -19,6 +19,7 @@
   <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
   <img src="https://komarev.com/ghpvc/?username=Jyotir2004&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -43,6 +44,7 @@
   <a href="#-learning-resources--inspiration">📖 Learning Library</a> ·
   <a href="#️-2026-roadmap">🗺️ Roadmap</a> ·
   <a href="#-unique-approach">🎨 Approach</a> ·
+  <a href="#-resume">📄 Resume</a> ·
   <a href="#-experience">💼 Experience</a> ·
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
@@ -286,6 +288,22 @@ Hands-on experiments I keep running to understand *why* things work, not just th
 - 🧱 **Backend discipline for AI** — typed schemas, clean layers, real error handling
 - 🔁 **Iterate in public** — every project ships with a README explaining the trade-offs
 - 🤝 **Explainable by default** — if I can't explain the pipeline, it isn't done
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume as PDF">
+  </a>
+  <a href="https://github.com/Jyotir2004/Jyotir2004/blob/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+    <img src="https://img.shields.io/badge/👁️%20View%20in%20Browser-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View resume on GitHub">
+  </a>
+  <a href="https://my-portfolio-gs6v.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Full%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
