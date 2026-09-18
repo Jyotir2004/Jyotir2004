@@ -1,13 +1,13 @@
-<!-- Python Animated Banner -->
+
+
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif
        alt="Python Animation"
        width="1200">
 </p>
 
-
 <p align="center">
-  <img src="./assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Jyotir</h1>
@@ -27,6 +27,7 @@
   <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
   <img src="https://komarev.com/ghpvc/?username=Jyotir2004&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
 
@@ -51,49 +52,40 @@
   <a href="#-learning-resources--inspiration">📖 Learning Library</a> ·
   <a href="#️-2026-roadmap">🗺️ Roadmap</a> ·
   <a href="#-unique-approach">🎨 Approach</a> ·
+  <a href="#-resume">📄 Resume</a> ·
   <a href="#-experience">💼 Experience</a> ·
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
 ---
 
-
-
-
-
 ## 📊 GitHub Stats
 
+<table align="center">
+  <tr>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=FFD63B&text_color=C9D1D9&rank_icon=github" alt="Jyotir's GitHub stats">
+    </td>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=donut&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="Most used languages">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/Jyotir2004">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      height="180"
-      alt="Jyotir's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/Jyotir2004">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
-      height="180"
-      alt="Jyotir's Top Languages"
-    />
-  </a>
+  <img height="195" src="https://streak-stats.demolab.com?user=Jyotir2004&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=FFD63B&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Jyotir2004&theme=tokyonight&hide_border=true&cache=1"
-    height="180"
-    alt="Jyotir's GitHub Streak"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FFD63B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%">
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    width="95%"
-    alt="Jyotir's Contribution Activity"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="GitHub trophies">
+</p>
+
+<p align="center">
+  <i>Stat cards are generated live by GitHub; if one shows as a broken image it is the upstream service rate-limiting — it reappears on refresh.</i>
 </p>
 
 ---
@@ -304,6 +296,22 @@ Hands-on experiments I keep running to understand *why* things work, not just th
 - 🧱 **Backend discipline for AI** — typed schemas, clean layers, real error handling
 - 🔁 **Iterate in public** — every project ships with a README explaining the trade-offs
 - 🤝 **Explainable by default** — if I can't explain the pipeline, it isn't done
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume as PDF">
+  </a>
+  <a href="https://github.com/Jyotir2004/Jyotir2004/blob/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+    <img src="https://img.shields.io/badge/👁️%20View%20in%20Browser-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View resume on GitHub">
+  </a>
+  <a href="https://my-portfolio-gs6v.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Full%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
