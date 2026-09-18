@@ -61,58 +61,39 @@
 
 ## 📊 GitHub Stats
 
-
-
-<table align="center">
-
-  <tr>
-
-    <td>
-
-      <img height="195" src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&icon_color=FFD63B&text_color=C9D1D9&rank_icon=github" alt="Jyotir's GitHub stats">
-
-    </td>
-
-    <td>
-
-      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=donut&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight&bg_color=0D1117&title_color=00D8FF&text_color=C9D1D9" alt="Most used languages">
-
-    </td>
-
-  </tr>
-
-</table>
-
-
+## 📊 GitHub Stats
 
 <p align="center">
-
-  <img height="195" src="https://streak-stats.demolab.com?user=Jyotir2004&hide_border=true&border_radius=12&theme=tokyonight&background=0D1117&ring=00D8FF&fire=FFD63B&currStreakLabel=00D8FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak">
-
+  <a href="https://github.com/Jyotir2004">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      height="180"
+      alt="Jyotir's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/Jyotir2004">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"
+      height="180"
+      alt="Jyotir's Top Languages"
+    />
+  </a>
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&bg_color=0D1117&color=00D8FF&line=FFD63B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%">
-
+  <img
+    src="https://streak-stats.demolab.com/?user=Jyotir2004&theme=tokyonight&hide_border=true&cache=1"
+    height="180"
+    alt="Jyotir's GitHub Streak"
+  />
 </p>
 
-
-
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Experience" alt="GitHub trophies">
-
-</p>
-
-
-
-<p align="center">
-
-  <i>Stat cards are generated live by GitHub; if one shows as a broken image it is the upstream service rate-limiting — it reappears on refresh.</i>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"
+    width="95%"
+    alt="Jyotir's Contribution Activity"
+  />
 </p>
 
 ---
