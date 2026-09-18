@@ -26,8 +26,8 @@ width="1500">
 <a href="https://github.com/Jyotir2004"><img src="https://img.shields.io/badge/GitHub-Jyotir2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"></a>
+<a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 <img src="https://komarev.com/ghpvc/?username=Jyotir2004&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </p>
 
