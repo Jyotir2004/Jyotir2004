@@ -52,7 +52,6 @@ width="1500">
 <a href="#-learning-resources--inspiration">📖 Learning Library</a> ·
 <a href="#️-2026-roadmap">🗺️ Roadmap</a> ·
 <a href="#-unique-approach">🎨 Approach</a> ·
-<a href="#-resume">📄 Resume</a> ·
 <a href="#-experience">💼 Experience</a> ·
 <a href="#-connect-with-me">📫 Connect</a>
 </p>
