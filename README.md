@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github-assistant-omega.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://github-assistant-oycm.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🤖_AI_Assistant-Launch_App_%E2%86%97-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Launch GitHub AI Assistant" />
   </a>
 </div>
