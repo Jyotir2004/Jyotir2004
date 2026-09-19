@@ -57,6 +57,7 @@ height="500">
 <a href="#-learning-resources--inspiration">📖 Learning Library</a> ·
 <a href="#️-2026-roadmap">🗺️ Roadmap</a> ·
 <a href="#-unique-approach">🎨 Approach</a> ·
+<a href="#-resume">📄 Resume</a> ·
 <a href="#-experience">💼 Experience</a> ·
 <a href="#-connect-with-me">📫 Connect</a>
 </p>
@@ -303,6 +304,22 @@ Hands-on experiments I keep running to understand *why* things work, not just th
 
 ---
 
+
+## 📄 Resume
+
+<p align="center">
+<a href="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+<img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download resume as PDF">
+</a>
+<a href="https://github.com/Jyotir2004/Jyotir2004/blob/main/assets/Jyotiraditya-Khatua-Resume.pdf">
+<img src="https://img.shields.io/badge/👁️%20View%20in%20Browser-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View resume on GitHub">
+</a>
+<a href="https://my-portfolio-gs6v.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Full%20Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
+</p>
+
+---
 
 ## 💼 Experience
 
