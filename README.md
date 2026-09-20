@@ -128,6 +128,12 @@ flowchart LR
 
 ---
 
+<h3 align="left">📈 Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=react-dark&hide_border=true" width="100%" alt="Jyotir2004's Activity Graph" />
+</p>
+
 ## 👋 About Me
 
 ```python
