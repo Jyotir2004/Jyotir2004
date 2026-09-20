@@ -206,11 +206,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://skillicons.dev/icons?i=notion&theme=dark" height="46" alt="Notion">
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="46" alt="Figma">
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="46" alt="Vercel">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="46" alt="Python">
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" height="46" alt="C#">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="46" alt="Java">
   <img src="https://skillicons.dev/icons?i=js&theme=dark" height="46" alt="JavaScript">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="46" alt="C++">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="46" alt="HTML5">
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="46" alt="CSS3">
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="46" alt="React">
