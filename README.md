@@ -131,7 +131,7 @@ flowchart LR
 <h3 align="left">📈 Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=react-dark" width="100%" alt="Activity Graph" />
 </p>
 
 ## 👋 About Me
