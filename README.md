@@ -215,128 +215,34 @@ principle = "Ship it · Measure it · Make it reliable"
 ## 🛠️ Tech Stack And Skills
 ### 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages:
-
-<p align="left">
-  <!-- Python Motion -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="40" alt="Python Motion" />
-  <img width="12" />
-  <!-- C# Motion -->
-  <img src="https://media.giphy.com/media/VCozq0wN7b3Y4/giphy.gif" height="40" alt="C# Motion" />
-  <img width="12" />
-  <!-- Java Motion -->
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40" alt="Java Motion" />
-  <img width="12" />
-  <!-- JavaScript Motion -->
-  <img src="https://media.giphy.com/media/JPci466c7f8AE/giphy.gif" height="40" alt="JavaScript Motion" />
-  <img width="12" />
-  <!-- C++ Motion -->
-  <img src="https://media.giphy.com/media/go3X4suFhLuvrTzz6l/giphy.gif" height="40" alt="C++ Motion" />
-  <img width="12" />
-  <!-- TypeScript Motion -->
-  <img src="https://media.giphy.com/media/XpgL31eB8l7XGjZ4Xg/giphy.gif" height="40" alt="TypeScript Motion" />
-  <img width="12" />
-  <!-- C Motion -->
-  <img src="https://media.giphy.com/media/26n6WuwSvJJj5vn4I/giphy.gif" height="40" alt="C Motion" />
-  <img width="12" />
-  <!-- Dart Motion -->
-  <img src="https://media.giphy.com/media/9IGW943qH8eY0/giphy.gif" height="40" alt="Dart Motion" />
+<h3 align="center">💻 Programming Languages:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,java,js,cpp,ts,c,flutter" alt="Programming Languages" />
 </p>
 
-### 🌐 Frontend Development:
-
-<p align="left">
-  <!-- React in motion -->
-  <img src="https://media.giphy.com/media/unFLVsSNUNOMzMAibM/giphy.gif" height="40" alt="React Motion" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" alt="Redux" />
+<h3 align="center">🌐 Frontend Development:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,redux" alt="Frontend Development" />
 </p>
 
-### ⚙️ Backend Development:
-
-<p align="left">
-  <!-- Django in motion -->
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR41t1K/giphy.gif" height="40" alt="Django Motion" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height="40" alt="Ruby on Rails" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+<h3 align="center">⚙️ Backend Development:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express,spring,rabbitmq" alt="Backend Development" />
 </p>
 
-### 🤖 AI & Machine Learning:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-Learn" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="40" alt="Kaggle" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" height="40" alt="OpenAI" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/huggingface/huggingface-icon.svg" height="40" alt="Hugging Face" />
+<h3 align="center">🤖 AI & Machine Learning:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv,numpy,pandas,scipy,jupyter,keras,openai,langchain,huggingface,wandb,matplotlib" alt="AI & Machine Learning" />
 </p>
 
-### 🗄️ Databases:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="40" alt="Redis" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="40" alt="Oracle" />
+<h3 align="center">🗄️ Databases:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase" alt="Databases" />
 </p>
 
-### 🔧 Tools & Technologies:
-
-<p align="left">
-  <!-- Docker in motion -->
-  <img src="https://media.giphy.com/media/ZX6NHzgyXFddvvGbtv/giphy.gif" height="40" alt="Docker Motion" />
-  <img width="12" />
-  <!-- Camo in motion -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="40" alt="Camo Motion" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<h3 align="center">🛠️ Tools & Technologies:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github,streamlit,canva,figma,postman,linux" alt="Tools & Technologies" />
 </p>
 
 <h4 align="center">Languages</h4>
