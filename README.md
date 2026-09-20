@@ -362,7 +362,8 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-<img src="https://img.shields.io/badge/Js-3776AB?style=for-the-badge&logo=Js&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </p>
 
 <h4 align="center">AI / ML & Generative AI</h4>
