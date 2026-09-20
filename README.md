@@ -238,7 +238,7 @@ principle = "Ship it · Measure it · Make it reliable"
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
   <!-- <p align="center"> -->
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 80px;" alt="Backend Technologies" /
+ <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" /
 </p>
 
 
