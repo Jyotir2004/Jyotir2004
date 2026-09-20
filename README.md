@@ -286,7 +286,22 @@ principle = "Ship it · Measure it · Make it reliable"
 <p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://skillicons.dev/icons?i=streamlit,canva" alt="Streamlit & Canva" />
+  <p align="center">
+  <!-- Git, VS Code, Visual Studio -->
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" height="58" alt="Git, VSCode, Visual Studio" />
+
+  <!-- n8n -->
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="58" height="58" alt="n8n" />
+
+  <!-- Streamlit -->
+  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="58" height="58" alt="Streamlit" />
+
+  <!-- Canva -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/canva.svg" width="58" height="58" alt="Canva" />
+
+  <!-- Figma, Postman, Linux -->
+  <img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" height="58" alt="Figma, Postman, Linux" />
+</p>
 </p>
 
 
