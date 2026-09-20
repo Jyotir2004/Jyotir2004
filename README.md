@@ -507,34 +507,15 @@ Worked on data analysis and visualization using **Python** and **Excel**.
   <img src="https://count.getloli.com/@:Jyotir2004?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
-name: Generate Pacman Contribution Graph
+<h3 align="left">📊 Pacman contribution animation :</h3>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs automatically every midnight
-  workflow_dispatch:     # Allows manual trigger from Actions tab
-  push:
-    branches:
-      - main
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+</p>
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: Jyotir2004
-
-      - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<blockquote>
+  <p>A dedicated developer focused on clean code and meaningful collaborations.</p>
+</blockquote>
 
 ## 📫 Connect With Me
 
