@@ -216,11 +216,11 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
   
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
   
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
 
 </p>
 
