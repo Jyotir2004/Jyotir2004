@@ -216,27 +216,27 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="78" height="78" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
   
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="78" height="78" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
   
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="78" height="78" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
 
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="78" height="78" alt="React" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
   <!-- <p align="center"> -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 80px;" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 50px;" alt="Frontend Technologies" />
     
 </p>
 
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="68" height="68" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
   <!-- <p align="center"> -->
  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 80px;" alt="Backend Technologies" /
 </p>
