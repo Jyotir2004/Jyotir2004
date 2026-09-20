@@ -245,7 +245,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">🤖 AI & Machine Learning:</h3>
 <p align="center">
   <!-- TensorFlow, Scikit-Learn, PyTorch, Anaconda -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="58" alt="ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="68" alt="ML Frameworks" />
 
   <!-- NumPy -->
   <img src="https://cdn.simpleicons.org/numpy/013243" width="58" height="58" alt="NumPy" />
