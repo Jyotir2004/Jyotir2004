@@ -232,7 +232,6 @@ principle = "Ship it · Measure it · Make it reliable"
   <img src="https://cdn.simpleicons.org/langgraph/white" width="46" height="46" alt="LangGraph">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="46" height="46" alt="Jupyter">
   <img src="https://cdn.simpleicons.org/keras/D00000" width="46" height="46" alt="Keras">
-  <img src="https://cdn.simpleicons.org/openai/10A37F" width="46" height="46" alt="ChatGPT/OpenAI">
   <img src="https://cdn.simpleicons.org/langchain/white" width="46" height="46" alt="LangChain">
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="46" height="46" alt="Hugging Face">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="46" height="46" alt="Matplotlib">
