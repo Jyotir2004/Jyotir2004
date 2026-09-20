@@ -508,16 +508,6 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
-## 🟡 Pac-Man Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg"
-    alt="Pac-Man GitHub Contribution Animation"
-    width="100%"
-  />
-</p>
-
 
 ## 📫 Connect With Me
 
@@ -545,3 +535,7 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0A0A0A&height=100&section=footer" width="100%" alt="Footer Wave" />
+</p>
