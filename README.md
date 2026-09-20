@@ -498,7 +498,7 @@ Working on AI/ML and Generative AI applications involving:
 `Python` · `FastAPI` · `LLMs` · `RAG` · `AI Agents` · `MCP` · `LangChain` · `LangGraph`
 
 ### 📊 Data Analytics & Visualization Intern — *Tanvika Software*
-Worked on data analysis and visualization using **Python** and **Excel**.
+Worked on data analysis and visualisation using **Python** and **Excel**.
 
 ---
 ### PROFILE REVIEW
@@ -507,11 +507,36 @@ Worked on data analysis and visualization using **Python** and **Excel**.
   <img src="https://count.getloli.com/@:Jyotir2004?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
-<h3 align="left">📊 Pacman contribution animation :</h3>
+name: Generate Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Jyotir2004
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 <blockquote>
   <p>A dedicated developer focused on clean code and meaningful collaborations.</p>
