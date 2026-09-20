@@ -27,6 +27,40 @@ height="700">
 🚀 Passionate about <b>Generative AI, LLMs, RAG, AI Agents</b> and <b>Backend Development</b>.
 </p>
 
+%%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
+flowchart LR
+    ME(("🧑‍💻 JYOTIR"))
+
+    ME --> CW["🚀 Currently Building"]
+    CW --> CW1[🤖 Generative AI]
+    CW --> CW2[🧠 LLM Applications]
+    CW --> CW3[🔗 RAG Systems]
+    CW --> CW4[🕸️ Multi-Agent Systems]
+
+    ME --> EX["🏆 Specialized In"]
+    EX --> EX1[🐍 Python & FastAPI]
+    EX --> EX2[⛓️ LangChain & LangGraph]
+    EX --> EX3[🗄️ Vector Databases]
+    EX --> EX4[⚡ AI Backend Engineering]
+
+    ME --> COL["🤝 Open To Collaborate"]
+    COL --> COL1[🤖 Agentic AI]
+    COL --> COL2[🚀 AI-powered Applications]
+    COL --> COL3[🔧 Automation Systems]
+    COL --> COL4[🌐 Full-stack AI Platforms]
+
+    ME --> ASK["💬 Ask Me About"]
+    ASK --> ASK1[🧠 LLMs & RAG]
+    ASK --> ASK2[🤖 AI Agents]
+    ASK --> ASK3[⚡ FastAPI & REST APIs]
+    ASK --> ASK4[📊 ML & Data Science]
+
+    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
+    style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    
 <p align="center">
 <a href="https://github.com/Jyotir2004"><img src="https://img.shields.io/badge/GitHub-Jyotir2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
