@@ -277,7 +277,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🗄️ Databases:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL" />
 </p>
 
 <h3 align="center">🔧 Tools & Technologies:</h3>
