@@ -27,6 +27,7 @@ height="700">
 🚀 Passionate about <b>Generative AI, LLMs, RAG, AI Agents</b> and <b>Backend Development</b>.
 </p>
 
+```mermaid
 %%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
 flowchart LR
     ME(("🧑‍💻 JYOTIR"))
@@ -37,7 +38,7 @@ flowchart LR
     CW --> CW3[🔗 RAG Systems]
     CW --> CW4[🕸️ Multi-Agent Systems]
 
-    ME --> EX["🏆 Specialized In"]
+    ME --> EX["🛠️ Tech Stack"]
     EX --> EX1[🐍 Python & FastAPI]
     EX --> EX2[⛓️ LangChain & LangGraph]
     EX --> EX3[🗄️ Vector Databases]
@@ -45,7 +46,7 @@ flowchart LR
 
     ME --> COL["🤝 Open To Collaborate"]
     COL --> COL1[🤖 Agentic AI]
-    COL --> COL2[🚀 AI-powered Applications]
+    COL --> COL2[🚀 AI Applications]
     COL --> COL3[🔧 Automation Systems]
     COL --> COL4[🌐 Full-stack AI Platforms]
 
@@ -53,13 +54,63 @@ flowchart LR
     ASK --> ASK1[🧠 LLMs & RAG]
     ASK --> ASK2[🤖 AI Agents]
     ASK --> ASK3[⚡ FastAPI & REST APIs]
-    ASK --> ASK4[📊 ML & Data Science]
+    ASK --> ASK4[📊 Machine Learning]
 
     style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
     style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+```
+
+<p align="center">
+  <i>Building intelligent systems with Generative AI, LLMs, RAG, AI Agents and Python.</i>
+</p>
+```
+
+So your structure becomes:
+
+````text
+## 👋 About Me
+
+        ↓
+
+        🧑‍💻 JYOTIR
+       /    |     |    \
+ 🚀 Building 🛠️ Stack 🤝 Collab 💬 Ask Me
+
+        ↓
+
+```python
+class Jyotir:
+    ...
+````
+
+```
+    ↓
+```
+
+## ⚙️ Everything I Build With
+
+```
+    ↓
+```
+
+## 🛠️ Tech Stack
+
+```
+    ↓
+```
+
+## 🚀 Featured Projects
+
+```
+
+This placement is better than putting it near the bottom because visitors see your **GenAI identity, technical focus, and collaboration areas immediately** before getting into the detailed README. Your resume supports the emphasis on Python/FastAPI, LLMs, RAG, AI Agents, LangChain/LangGraph and vector databases.
+
+If you want the README to look **more premium**, I can also redesign the Mermaid diagram with a **dark GitHub/neon-blue theme matching your existing `00D8FF` profile styling**.
+```
+
     
 <p align="center">
 <a href="https://github.com/Jyotir2004"><img src="https://img.shields.io/badge/GitHub-Jyotir2004-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
