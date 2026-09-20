@@ -216,29 +216,29 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
   
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
   
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
 
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
   <!-- <p align="center"> -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 58px;" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 48px;" alt="Frontend Technologies" />
     
 </p>
 
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
   <!-- <p align="center"> -->
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" /
+ <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 48px;" alt="Backend Technologies" /
 </p>
 
 
