@@ -263,7 +263,7 @@ principle = "Ship it · Measure it · Make it reliable"
   <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
 
   <!-- ChatGPT / OpenAI (Light Theme - White Logo) -->
-  <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="ChatGPT/OpenAI" />
+  <img src="https://cdn.simpleicons.org/openai/10A37F" width="48" height="48" alt="ChatGPT/OpenAI" />
 
   <!-- LangChain -->
   <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" />
