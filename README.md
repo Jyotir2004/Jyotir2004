@@ -134,6 +134,10 @@ flowchart LR
   <img src="https://ghchart.rshah.org/00d4ff/Jyotir2004" width="100%" alt="Jyotir2004's Contribution Graph" />
 </p>
 
+<p align="center">
+  <img src="https://count.getloli.com/@:Jyotir2004?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
+</p>
+
 ## 👋 About Me
 
 ```python
