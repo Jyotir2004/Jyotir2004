@@ -226,7 +226,9 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="68" height="68" alt="React" />
+
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="68" height="68" alt="Html" />
 </p>
 
 <h3 align="center">⚙️ Backend Development:</h3>
