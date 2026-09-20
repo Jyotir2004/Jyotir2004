@@ -285,8 +285,8 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">🔧 Tools & Technologies:</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <p align="center">
+
+  <!-- <p align="center"> -->
   <!-- Git, VS Code, Visual Studio -->
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio" height="58" alt="Git, VSCode, Visual Studio" />
 
@@ -301,7 +301,6 @@ principle = "Ship it · Measure it · Make it reliable"
 
   <!-- Figma, Postman, Linux -->
   <img src="https://skillicons.dev/icons?i=figma,postman,linux&theme=dark" height="58" alt="Figma, Postman, Linux" />
-</p>
 </p>
 
 
