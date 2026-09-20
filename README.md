@@ -229,7 +229,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="68" height="68" alt="Django" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
 </p>
 
