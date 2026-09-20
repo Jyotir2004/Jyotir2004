@@ -248,13 +248,13 @@ principle = "Ship it · Measure it · Make it reliable"
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="58" alt="ML Frameworks" />
 
   <!-- NumPy -->
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="58" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="58" height="58" alt="NumPy" />
 
   <!-- Pandas -->
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="58" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="58" height="58" alt="Pandas" />
 
   <!-- LangGraph -->
-  <img src="https://cdn.simpleicons.org/langgraph/white" width="48" height="58" alt="LangGraph" />
+  <img src="https://cdn.simpleicons.org/langgraph/white" width="58" height="58" alt="LangGraph" />
 
   <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="58" height="58" alt="Jupyter" />
