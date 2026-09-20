@@ -213,30 +213,38 @@ principle = "Ship it · Measure it · Make it reliable"
 </p>
 
 ## 🛠️ Tech Stack
-### 💻 Programming Languages:
+### 💻 Programming Languages (In Motion):
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python" />
+  <!-- Python Motion -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="40" alt="Python Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <!-- C# Motion -->
+  <img src="https://media.giphy.com/media/VCozq0wN7b3Y4/giphy.gif" height="40" alt="C# Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java" />
+  <!-- Java Motion -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="40" alt="Java Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <!-- JavaScript Motion -->
+  <img src="https://media.giphy.com/media/JPci466c7f8AE/giphy.gif" height="40" alt="JavaScript Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <!-- C++ Motion -->
+  <img src="https://media.giphy.com/media/go3X4suFhLuvrTzz6l/giphy.gif" height="40" alt="C++ Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <!-- TypeScript Motion -->
+  <img src="https://media.giphy.com/media/XpgL31eB8l7XGjZ4Xg/giphy.gif" height="40" alt="TypeScript Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C" />
+  <!-- C Motion -->
+  <img src="https://media.giphy.com/media/26n6WuwSvJJj5vn4I/giphy.gif" height="40" alt="C Motion" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="Dart" />
+  <!-- Dart Motion -->
+  <img src="https://media.giphy.com/media/9IGW943qH8eY0/giphy.gif" height="40" alt="Dart Motion" />
 </p>
 
 ### 🌐 Frontend Development:
 
 <p align="left">
-  <!-- React in motion (animated GIF) -->
+  <!-- React in motion -->
   <img src="https://media.giphy.com/media/unFLVsSNUNOMzMAibM/giphy.gif" height="40" alt="React Motion" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -253,7 +261,7 @@ principle = "Ship it · Measure it · Make it reliable"
 ### ⚙️ Backend Development:
 
 <p align="left">
-  <!-- Django in motion (animated GIF) -->
+  <!-- Django in motion -->
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR41t1K/giphy.gif" height="40" alt="Django Motion" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask" />
@@ -314,10 +322,10 @@ principle = "Ship it · Measure it · Make it reliable"
 ### 🔧 Tools & Technologies:
 
 <p align="left">
-  <!-- Docker in motion (animated GIF) -->
+  <!-- Docker in motion -->
   <img src="https://media.giphy.com/media/ZX6NHzgyXFddvvGbtv/giphy.gif" height="40" alt="Docker Motion" />
   <img width="12" />
-  <!-- Camo / Proxy utility representation in motion -->
+  <!-- Camo in motion -->
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="40" alt="Camo Motion" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git" />
