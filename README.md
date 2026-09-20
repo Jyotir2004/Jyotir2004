@@ -217,10 +217,9 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="TypeScript" />
+
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
