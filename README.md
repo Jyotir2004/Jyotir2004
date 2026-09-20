@@ -216,17 +216,17 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="68" height="68" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="78" height="78" alt="Python" />
   
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="68" height="68" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="78" height="78" alt="JavaScript" />
   
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="68" height="68" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="78" height="78" alt="TypeScript" />
 
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="68" height="68" alt="React" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="78" height="78" alt="React" />
   <!-- <p align="center"> -->
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 80px;" alt="Frontend Technologies" />
     
