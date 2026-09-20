@@ -107,8 +107,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats
-<h3>📊 GitHub Stats:</h3>
+### 📊 GitHub Stats
 
 <table>
   <tr>
