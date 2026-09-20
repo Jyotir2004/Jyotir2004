@@ -68,48 +68,7 @@ flowchart LR
 </p>
 ```
 
-So your structure becomes:
 
-````text
-## 👋 About Me
-
-        ↓
-
-        🧑‍💻 JYOTIR
-       /    |     |    \
- 🚀 Building 🛠️ Stack 🤝 Collab 💬 Ask Me
-
-        ↓
-
-```python
-class Jyotir:
-    ...
-````
-
-```
-    ↓
-```
-
-## ⚙️ Everything I Build With
-
-```
-    ↓
-```
-
-## 🛠️ Tech Stack
-
-```
-    ↓
-```
-
-## 🚀 Featured Projects
-
-```
-
-This placement is better than putting it near the bottom because visitors see your **GenAI identity, technical focus, and collaboration areas immediately** before getting into the detailed README. Your resume supports the emphasis on Python/FastAPI, LLMs, RAG, AI Agents, LangChain/LangGraph and vector databases.
-
-If you want the README to look **more premium**, I can also redesign the Mermaid diagram with a **dark GitHub/neon-blue theme matching your existing `00D8FF` profile styling**.
-```
 
     
 <p align="center">
