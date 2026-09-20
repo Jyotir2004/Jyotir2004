@@ -381,6 +381,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h4 align="center">Frameworks & Backend</h4>
 <p align="center">
+<img src="https://img.shields.io/badge/Django-009688?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
