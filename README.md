@@ -244,8 +244,38 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🤖 AI & Machine Learning:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,keras,openai,langchain,huggingface,opencv,matplotlib" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
+  <!-- TensorFlow, Scikit-Learn, PyTorch, Anaconda -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="48" alt="ML Frameworks" />
+
+  <!-- NumPy -->
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
+
+  <!-- LangGraph -->
+  <img src="https://cdn.simpleicons.org/langgraph/white" width="48" height="48" alt="LangGraph" />
+
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
+
+  <!-- Keras -->
+  <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
+
+  <!-- ChatGPT / OpenAI (Light Theme - White Logo) -->
+  <img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="ChatGPT/OpenAI" />
+
+  <!-- LangChain -->
+  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" />
+
+  <!-- Hugging Face -->
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" />
+
+  <!-- OpenCV -->
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48" alt="OpenCV" />
+
+  <!-- Matplotlib -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
 </p>
 
 <h3 align="center">🗄️ Databases:</h3>
