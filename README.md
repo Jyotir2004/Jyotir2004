@@ -226,65 +226,65 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
   <!-- <p align="center"> -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 48px;" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 58px;" alt="Frontend Technologies" />
     
 </p>
 
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
   <!-- <p align="center"> -->
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 48px;" alt="Backend Technologies" /
+ <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" /
 </p>
 
 
 <h3 align="center">🤖 AI & Machine Learning:</h3>
 <p align="center">
   <!-- TensorFlow, Scikit-Learn, PyTorch, Anaconda -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="48" alt="ML Frameworks" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" height="58" alt="ML Frameworks" />
 
   <!-- NumPy -->
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="58" alt="NumPy" />
 
   <!-- Pandas -->
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="58" alt="Pandas" />
 
   <!-- LangGraph -->
-  <img src="https://cdn.simpleicons.org/langgraph/white" width="48" height="48" alt="LangGraph" />
+  <img src="https://cdn.simpleicons.org/langgraph/white" width="48" height="58" alt="LangGraph" />
 
   <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="58" height="58" alt="Jupyter" />
 
   <!-- Keras -->
-  <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
+  <img src="https://cdn.simpleicons.org/keras/D00000" width="58" height="58" alt="Keras" />
 
   <!-- LangChain -->
-  <img src="https://cdn.simpleicons.org/langchain/white" width="48" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langchain/white" width="58" height="58" alt="LangChain" />
 
   <!-- Hugging Face -->
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="58" height="58" alt="Hugging Face" />
 
   <!-- OpenCV -->
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="48" height="48" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="58" height="58" alt="OpenCV" />
 
   <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="58" height="58" alt="Matplotlib" />
 </p>
 
 <h3 align="center">🗄️ Databases:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" height="48" alt="Databases" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" height="58" alt="Databases" />
 </p>
 
 
 <h3 align="center">🔧 Tools & Technologies:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://skillicons.dev/icons?i=streamlit,canva" alt="Streamlit & Canva" />
 </p>
