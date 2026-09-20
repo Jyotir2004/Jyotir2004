@@ -108,24 +108,17 @@ flowchart LR
 ---
 
 ## 📊 GitHub Stats
+<h3>📊 GitHub Stats:</h3>
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<table border="0">
+<table>
   <tr>
-    <!-- Left Column: Stat Cards -->
     <td valign="top" width="55%">
-      <!-- My GitHub Statistics -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Jyotir2004&theme=dark&hide_border=false&title_color=4B9CD3&text_color=87CEEB&ring_color=87CEEB&custom_title=My%20GitHub%20Statistics" alt="My GitHub Statistics" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jyotir2004&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false" width="100%" alt="My GitHub Statistics" />
       <br/><br/>
-      <!-- GitHub Streak Stats -->
-      <img src="https://streak-stats.demolab.com/?user=Jyotir2004&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=Jyotir2004&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" alt="GitHub Streak Stats" />
       <br/><br/>
-      <!-- My Programming Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyotir2004&theme=dark&hide_border=false&layout=compact&custom_title=My%20Programming%20Languages" alt="My Programming Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jyotir2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="My Programming Languages" />
     </td>
-
-    <!-- Right Column: Waving Robot GIF -->
     <td align="center" valign="middle" width="45%">
       <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Waving Robot" />
     </td>
