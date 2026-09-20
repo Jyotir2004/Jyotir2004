@@ -228,7 +228,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="68" height="68" alt="React" />
   <!-- <p align="center"> -->
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 80px;" alt="Frontend Technologies" />
     
 </p>
 
