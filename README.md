@@ -214,37 +214,46 @@ principle = "Ship it · Measure it · Make it reliable"
 
 ### 🛠️ Tech Stack And Skills
 
-
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,java,js,cpp,ts,c,flutter" alt="Programming Languages" />
-  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=light" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="48" height="48" alt="C#" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,redux" alt="Frontend Development" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
 </p>
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express,spring,rabbitmq" alt="Backend Development" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
 </p>
 
 <h3 align="center">🤖 AI & Machine Learning:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,opencv,numpy,pandas,scipy,jupyter,keras,openai,langchain,huggingface,wandb,matplotlib" alt="AI & Machine Learning" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,keras,openai,langchain,huggingface,opencv,matplotlib" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph" />
 </p>
 
 <h3 align="center">🗄️ Databases:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,dynamodb,firebase" alt="Databases" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
 </p>
 
-<h3 align="center">🛠️ Tools & Technologies:</h3>
+<h3 align="center">🔧 Tools & Technologies:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode,visualstudio,github,streamlit,canva,figma,postman,linux" alt="Tools & Technologies" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=streamlit,canva" alt="Streamlit & Canva" />
 </p>
+
+
+
 
 <h4 align="center">Languages</h4>
 <p align="center">
