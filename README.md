@@ -227,8 +227,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="68" height="68" alt="React" />
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" alt="Frontend Technologies" />
+  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" alt="Frontend Technologies" />
     
 </p>
 
