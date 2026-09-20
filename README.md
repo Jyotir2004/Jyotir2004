@@ -218,6 +218,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,java,js,cpp,ts,c,flutter" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=light" />
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
