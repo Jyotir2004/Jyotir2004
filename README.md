@@ -507,40 +507,17 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
   <img src="https://count.getloli.com/@:Jyotir2004?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
-name: Generate Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+## 🟡 Pac-Man Contribution Activity
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg"
+    alt="Pac-Man GitHub Contribution Animation"
+    width="100%"
+  />
+</p>
 
-    permissions:
-      contents: write
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Jyotir2004
-          outputs: |
-            dist/github-snake.svg?palette=github
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          build_dir: dist
-          target_branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-<blockquote>
-  <p>A dedicated developer focused on clean code and meaningful collaborations.</p>
-</blockquote>
 
 ## 📫 Connect With Me
 
