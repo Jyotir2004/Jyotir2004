@@ -212,8 +212,10 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="46" alt="Vercel">
 </p>
 
-## 🛠️ Tech Stack
-### 💻 Programming Languages (In Motion):
+## 🛠️ Tech Stack And Skills
+### 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages:
 
 <p align="left">
   <!-- Python Motion -->
