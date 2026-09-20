@@ -214,6 +214,36 @@ principle = "Ship it · Measure it · Make it reliable"
 
 ## 🛠️ Tech Stack And Skills
 ### 🛠️ Tech Stack & Skills
+from PIL import Image, ImageDraw
+import math
+
+# Dimensions
+width, height = 120, 120
+frames = []
+num_frames = 30
+
+# Generate an animated pulsing/rotating Python-colored icon
+for i in range(num_frames):
+    # Create transparent image
+    img = Image.new("RGBA", (width, height), (26, 27, 38, 255))
+    draw = ImageDraw.Draw(img)
+
+    # Pulsing animation logic
+    angle = (i / num_frames) * 2 * math.pi
+    scale = 1 + 0.15 * math.sin(angle)
+    radius = 35 * scale
+
+    # Python Yellow (#FFD43B) and Blue (#3776AB) glowing circles
+    draw.ellipse([width/2 - radius, height/2 - radius, width/2 + radius, height/2 + radius], 
+                 outline="#FFD43B", width=4)
+    draw.ellipse([width/2 - radius + 8, height/2 - radius + 8, width/2 + radius - 8, height/2 + radius - 8], 
+                 outline="#3776AB", width=4)
+
+    frames.append(img)
+
+# Save as animated GIF
+frames[0].save("python_animated_icon.gif", save_all=True, append_images=frames[1:], duration=40, loop=0)
+print("Saved python_animated_icon.gif!")
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
