@@ -19,7 +19,7 @@ height="700">
 
 <p align="center">
 <a href="https://github.com/Jyotir2004">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+Trainee;Generative+AI+Engineer;Python+Backend+Developer;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+FastAPI" alt="AI/ML Engineer Trainee | Generative AI Engineer | Python Backend Developer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Engineer;Python+Backend+Developer;AI Engineer;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+FastAPI" alt="AI/ML Engineer | Generative AI Engineer | Python Backend Developer| AI Engineer">
 </a>
 </p>
 
