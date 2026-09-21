@@ -534,7 +534,11 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 <a href="https://www.linkedin.com/in/jyotiraditya-khatua-2262b02a2"><img src="https://img.shields.io/badge/LinkedIn-jyotiraditya--khatua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Gmail-jyotiraditya20122004-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-my--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://shield-essay-35599266.figma.site/" target="_blank">
+<img src="https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png" height="50" alt="Figma Portfolio" />
+</a>
 </p>
+
 
 ---
 
