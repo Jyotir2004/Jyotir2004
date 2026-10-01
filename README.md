@@ -560,12 +560,6 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
-<h3 align="left">⚡ Activity Overview:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jyotir2004&show_icons=true&theme=dark&rank_icon=github" width="100%" alt="Activity Overview" />
-</p>
-
 ---
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
