@@ -77,7 +77,6 @@ flowchart LR
 <a href="https://my-portfolio-gs6v.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:jyotiraditya20122004@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<img src="https://komarev.com/ghpvc/?username=Jyotir2004&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
   <a href="https://shield-essay-35599266.figma.site/" target="_blank">
 <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00D4FF?style=for-the-badge&logo=figma&logoColor=black" alt="Portfolio" />
 </a>
