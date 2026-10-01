@@ -16,15 +16,10 @@ height="400">
 </p>
 
 
-  <tr>
-    <td align="center" valign="middle" width="180">
-      <img src="avatar.jpg" width="160" height="160" alt="Jyotir Avatar" />
-    </td>
-    <td valign="middle">
-      <h1>Hey 👋, I'm Jyotir</h1>
-      <p>Building Intelligent Agents, RAG Systems & High-Performance Backends</p>
-    </td>
-  </tr>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Waving Hand" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Jyotiraditya%21;AI%2FML+Engineer+%E2%80%A2+Generative+AI+%E2%80%A2+Python+Backend" alt="Typing Header" />
+</p>
 
 
 
