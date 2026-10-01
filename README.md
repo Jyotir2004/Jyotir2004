@@ -18,7 +18,7 @@ height="400">
 
   <tr>
     <td align="center" valign="middle" width="180">
-      <img src="https://github.com/Jyotir2004.png" width="160" height="160" style="border-radius: 50%;" alt="Jyotir Avatar" />
+      <img src="avatar.jpg" width="160" height="160" alt="Jyotir Avatar" />
     </td>
     <td valign="middle">
       <h1>Hey 👋, I'm Jyotir</h1>
