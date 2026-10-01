@@ -556,10 +556,10 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
-<h3 align="left">📊 Contribution Summary:</h3>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-graph?username=Jyotir2004&theme=solarized_dark" width="100%" alt="Contribution Summary" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jyotir2004&theme=onedark&no-frame=true&no-bg=true" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
