@@ -556,10 +556,10 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
-<h3 align="left">🐍 Contribution Graph:</h3>
+<h3 align="left">📊 Contribution Summary:</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/Jyotir2004" width="100%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-graph?username=Jyotir2004&theme=solarized_dark" width="100%" alt="Contribution Summary" />
 </p>
 
 ---
