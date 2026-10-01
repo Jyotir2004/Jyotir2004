@@ -556,6 +556,11 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
+<h3 align="left">🐍 Contribution Graph:</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00d4ff/Jyotir2004" width="100%" alt="Contribution Graph" />
+</p>
 
 ---
 
