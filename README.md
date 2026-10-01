@@ -429,7 +429,7 @@ principle = "Ship it · Measure it · Make it reliable"
 | 🔎 **AI Research Agent** | Autonomous research agent that gathers, filters and summarises sources into a usable brief. | `Python` `LangChain` `LLMs` `Agents` | [Repo](https://github.com/Jyotir2004/AI-Research-Agent) |
 | 🛒 **CommerceNetAI** | AI-assisted e-commerce intelligence — product data, scraping and insight generation. | `Python` `FastAPI` `LLMs` | [Repo](https://github.com/Jyotir2004/CommerceNetAI) |
 | 📊 **HR Analytics Dashboard** | Attrition and workforce analytics across 1,470 employees with drill-down visuals. | `Power BI` `Data Analysis` | [Repo](https://github.com/Jyotir2004/hr-analytics-dashboard) |
-| 🏏 **IPL Cricket Dashboard** | Interactive cricket analytics dashboard with season, team and player breakdowns. | `Python` `Streamlit` `Pandas` `Visualization` | [Repo](YOUR_IPL_REPO_URL) |
+| 🏏 **IPL Cricket Dashboard** | Interactive cricket analytics dashboard with season, team and player breakdowns. | `Python` `Streamlit` `Pandas` `Visualisation` | [Repo](YOUR_IPL_REPO_URL) |
 
 ---
 
