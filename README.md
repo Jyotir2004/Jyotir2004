@@ -556,38 +556,6 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 </p>
 
 
-name: Generate Snake Contribution Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs automatically every midnight
-  workflow_dispatch:     # Allows manual trigger from Actions tab
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Jyotir2004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
-
 
 ---
 
