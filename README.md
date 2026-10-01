@@ -16,7 +16,7 @@ height="400">
 </p>
 
 <h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" />, I'm Jyotiraditya
+  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving Hand" />, I'm Jyotir
 </h1>
 
 
