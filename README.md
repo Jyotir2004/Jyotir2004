@@ -15,9 +15,9 @@ height="400">
 <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
 </p>
 
-<h1 align="center">
-  Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving Hand" />, I'm Jyotir
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0077FF,100:0D1117&height=200&section=header&text=Hey%20👋,%20I'm%20Jyotiraditya&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI/ML%20Engineer%20•%20Generative%20AI%20•%20Python%20Backend&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Holographic Header" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Jyotir2004">
