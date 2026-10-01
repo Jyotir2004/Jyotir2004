@@ -15,17 +15,18 @@ height="400">
 <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
 </p>
 
-<table align="center" border="0">
+
   <tr>
-    <td align="center" valign="middle" width="200">
-      <img src="./assets/avatar.png" width="170" height="170" alt="Jyotir Avatar" />
+    <td align="center" valign="middle" width="180">
+      <img src="https://github.com/Jyotir2004.png" width="160" height="160" style="border-radius: 50%;" alt="Jyotir Avatar" />
     </td>
     <td valign="middle">
       <h1>Hey 👋, I'm Jyotir</h1>
       <p>Building Intelligent Agents, RAG Systems & High-Performance Backends</p>
     </td>
   </tr>
-</table>
+
+
 
 <p align="center">
   <a href="https://github.com/Jyotir2004">
