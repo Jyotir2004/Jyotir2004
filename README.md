@@ -434,6 +434,81 @@ principle = "Ship it · Measure it · Make it reliable"
 | 📊 **HR Analytics Dashboard** | Attrition and workforce analytics across 1,470 employees with drill-down visuals. | `Power BI` `Data Analysis` | [Repo](https://github.com/Jyotir2004/hr-analytics-dashboard) |
 | 🏏 **IPL Cricket Dashboard** | Interactive cricket analytics dashboard with season, team and player breakdowns. | `Python` `Streamlit` `Pandas` `Visualisation` | [Repo](YOUR_IPL_REPO_URL) |
 
+
+<h2 align="center">🚀 Featured Resume Projects</h2>
+
+<table align="center" width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 CommerceNet AI</h3>
+      <p>Multi-agent e-commerce platform that compares products across sources, estimates pricing, and coordinates shipping & traffic management using LangGraph, AutoGen & CrewAI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat" />
+        <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat" />
+        <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 LlamaIndex Knowledge Hub Assistant</h3>
+      <p>LlamaIndex-based knowledge hub assistant with document ingestion, semantic retrieval, and intelligent question answering over enterprise data sources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat" />
+        <img src="https://img.shields.io/badge/VectorDB-EA4B71?style=flat" />
+        <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ GitHub Assistant</h3>
+      <p>AI-powered GitHub Assistant with RAG-based knowledge retrieval interacting with repositories, issues, PRs, docs, and developer workflows via natural language queries.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_API-181717?style=flat&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-121212?style=flat" />
+        <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ Multi-Agent Travel Planner</h3>
+      <p>Autonomous LangGraph multi-agent travel planning system with intelligent itinerary generation, task orchestration, and real-time travel recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat" />
+        <img src="https://img.shields.io/badge/AI_Agents-10A37F?style=flat&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Healthcare Assistant (MedSync)</h3>
+      <p>AI healthcare assistant with appointment booking, contextual medical RAG, and AI-agent clinical workflows built with FastAPI and LLMs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM-10A37F?style=flat&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-00D4FF?style=flat" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Face Detection Attendance System</h3>
+      <p>Real-time automated attendance tracking system using Convolutional Neural Networks (CNN), OpenCV, and deep learning face recognition.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F61?style=flat" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎓 Deep-Dive Technical Labs
