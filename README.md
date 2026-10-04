@@ -136,7 +136,7 @@ flowchart LR
 
 ---
 
-<h3 align="left">📊 Contribution Graph:</h3>
+<h3 align="left">📊 Pacman Contribution Graph:</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
