@@ -370,6 +370,19 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
 </p>
 
+<!-- ================= Languages Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:B026FF&height=40&text=Languages&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Languages Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="100"><img src="https://skillicons.dev/icons?i=python" height="48" /><br/><sub><b>Python ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=js" height="48" /><br/><sub><b>JavaScript ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=ts" height="48" /><br/><sub><b>TypeScript ⭐</b></sub></td>
+  </tr>
+</table>
+
 <h4 align="center">AI / ML & Generative AI</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning">
@@ -383,6 +396,66 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KERAS-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+  <img src="https://img.shields.io/badge/YOLOV8-B026FF?style=for-the-badge&labelColor=B026FF&textColor=ffffff" />
+  <img src="https://img.shields.io/badge/SPACY-FFD21E?style=for-the-badge&labelColor=FFD21E&textColor=000000" />
+  <img src="https://img.shields.io/badge/NLTK-00FF87?style=for-the-badge&labelColor=00FF87&textColor=000000" />
+  <img src="https://img.shields.io/badge/TRANSFORMERS-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+</p>
+
+<!-- ================= Gen AI Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:B026FF&height=40&text=Gen%20AI&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Gen AI Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" height="48" /><br/><sub><b>OpenAI ⭐</b></sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="48" /><br/><sub><b>HuggingFace</b> ⭐ </sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="48" /><br/><sub><b>LangChain</b> ⭐ </sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex" height="48" /><br/><sub><b>LlamaIndex</b> ⭐ </sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=ollama" height="48" /><br/><sub><b>Ollama</b> ⭐ </sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=groq" height="48" /><br/><sub><b>Groq</b> ⭐ </sub></td>
+  </tr>
+</table>
+
+<!-- Gen AI Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG_PIPELINES-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+  <img src="https://img.shields.io/badge/VECTOR_DBS-B026FF?style=for-the-badge&labelColor=B026FF&textColor=ffffff" />
+  <img src="https://img.shields.io/badge/EMBEDDINGS-FFD21E?style=for-the-badge&labelColor=FFD21E&textColor=000000" />
+  <img src="https://img.shields.io/badge/PROMPT_ENGINEERING-00FF87?style=for-the-badge&labelColor=00FF87&textColor=000000" />
+  <img src="https://img.shields.io/badge/FINE_TUNING-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+</p>
+
+<br/>
+
+<!-- ================= Agentic AI Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,100:B026FF&height=40&text=Agentic%20AI&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Agentic AI Header" />
+</p>
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+  <table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;"> <tr align="center" valign="middle"> <!-- LangGraph using your exact simple-icons white URL --> <td width="120"> <img src="https://cdn.simpleicons.org/langgraph/white" width="44" height="44" alt="LangGraph" /><br/> <sub><b>LangGraph ⭐ </b></sub> </td>
+    <td width="120"><img src="https://go-skill-icons.vercel.app/api/icons?i=crewai" height="48" /><br/><sub><b>CrewAI</b> ⭐ </sub></td>
+    <td width="120"><img src="https://go-skill-icons.vercel.app/api/icons?i=mcp" height="48" /><br/><sub><b>MCP</b> ⭐ </sub></td>
+  </tr>
+</table>
+
+    
+
+
+
+<!-- Agentic AI Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TOOL_CALLING-B026FF?style=for-the-badge&labelColor=B026FF&textColor=ffffff" />
+  <img src="https://img.shields.io/badge/MULTI_AGENT_SYSTEMS-FFD21E?style=for-the-badge&labelColor=FFD21E&textColor=000000" />
+</p>
+
+
+
 <h4 align="center">Frameworks & Backend</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-009688?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
@@ -392,7 +465,44 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+
 </p>
+
+<!-- ================= Frontend Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD21E,50:00FF87,100:00D4FF&height=40&text=Frontend&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Frontend Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="110"><img src="https://skillicons.dev/icons?i=react" height="48" /><br/><sub><b>React ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=vite" height="48" /><br/><sub><b>Vite ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=tailwind" height="48" /><br/><sub><b>Tailwind ⭐</b></sub></td>
+    <td width="110"><img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" height="48" /><br/><sub><b>Streamlit ⭐</b></sub></td>
+  </tr>
+  </tr>
+</table>
+
+<!-- ================= Backend Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:FFD21E&height=40&text=Backend&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Backend Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="100"><img src="https://skillicons.dev/icons?i=nodejs" height="48" /><br/><sub><b>Node.js ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=express" height="48" /><br/><sub><b>Express ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /><br/><sub><b>FastAPI ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=flask" height="48" /><br/><sub><b>Flask ⭐</b></sub></td>
+    <td width="100"><img src="https://cdn.simpleicons.org/socketdotio/white" width="42" height="42" /><br/><sub><b>Socket.IO ⭐</b></sub></td>
+    <td width="100"><img src="https://go-skill-icons.vercel.app/api/icons?i=jwt" height="48" /><br/><sub><b>JWT ⭐</b></sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIS-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+</p>
+
 
 <h4 align="center">Databases & Vector Stores</h4>
 <p align="center">
@@ -404,6 +514,23 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS">
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
 </p>
+
+
+<!-- ================= Databases Section ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,100:00D4FF&height=40&text=Databases&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Databases Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="110"><img src="https://skillicons.dev/icons?i=mysql" height="48" /><br/><sub><b>MySQL ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=postgres" height="48" /><br/><sub><b>PostgreSQL ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /><br/><sub><b>MongoDB ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=redis" height="48" /><br/><sub><b>Redis ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=sqlite" height="48" /><br/><sub><b>SQLite</b></sub></td>
+  </tr>
+</table>
+
 
 <h4 align="center">Tools & DevOps</h4>
 <p align="center">
@@ -418,6 +545,45 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+
+<!-- ================= 2. MLOps · Deployment ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:00FF87&height=40&text=MLOps%20·%20Deployment&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="MLOps Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="100"><img src="https://skillicons.dev/icons?i=docker" height="48" /><br/><sub><b>Docker ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=git" height="48" /><br/><sub><b>Git ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=github" height="48" /><br/><sub><b>GitHub ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=linux" height="48" /><br/><sub><b>Linux ⭐</b></sub></td>
+    <td width="100"><img src="https://skillicons.dev/icons?i=githubactions" height="48" /><br/><sub><b>Actions ⭐</b></sub></td>
+    <td width="100"><img src="https://cdn.simpleicons.org/render/white" width="42" height="42" /><br/><sub><b>Render ⭐</b></sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HF_SPACES-00D4FF?style=for-the-badge&labelColor=00D4FF&textColor=000000" />
+</p>
+
+<br/>
+
+<!-- ================= 3. Tools ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,100:FFD21E&height=40&text=Tools&fontSize=22&fontColor=000000&fontAlignY=55" width="100%" alt="Tools Header" />
+</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="background-color: #0d1117; border-color: #30363d;">
+  <tr align="center" valign="middle">
+    <td width="110"><img src="https://skillicons.dev/icons?i=vscode" height="48" /><br/><sub><b>VS Code ⭐ </b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=postman" height="48" /><br/><sub><b>Postman ⭐</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=anaconda" height="48" /><br/><sub><b>Anaconda ⭐ </b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=figma" height="48" /><br/><sub><b>Figma ⭐ </b></sub></td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider Line" />
 </p>
 
 ---
