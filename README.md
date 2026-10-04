@@ -525,6 +525,14 @@ Working on AI/ML and Generative AI applications involving:
 Worked on data analysis and visualisation using **Python** and **Excel**.
 
 ---
+## 🐍 Contribution Snake
+<!--Snake-->
+<div align="center">
+
+![snake gif](https://github.com/Jyotir2004/Jyotir2004/blob/output/github-snake-dark.svg)
+
+</div>
+
 ### PROFILE REVIEW
 
 <p align="center">
