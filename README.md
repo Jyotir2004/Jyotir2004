@@ -11,10 +11,10 @@ width="100%"
 height="400">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 -<img src="./assets/python-ai-hero.gif" ...>
 +<img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" ...>
-</p>
+</p> -->
 
 
 <h1 align="center">
