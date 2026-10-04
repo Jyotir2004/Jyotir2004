@@ -1,0 +1,4 @@
+# Fix profile asset links for mobile rendering
+
+This is a simple SVG-based GitHub profile graphic that works reliably on GitHub and mobile browsers without depending on the `output` branch.
+
