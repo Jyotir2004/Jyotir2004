@@ -135,23 +135,10 @@ flowchart LR
 </table>
 
 ---
-
-## 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg"
-  />
-</picture>
+# Pacman contribution graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+</p>
 
 
 ## 👋 About Me
