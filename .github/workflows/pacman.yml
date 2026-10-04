@@ -19,19 +19,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Generate Pacman SVG (Dark Mode)
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          node-version: 18
-
-      - name: Install pacman-contribution-graph
-        run: npm install --global pacman-contribution-graph
-
-      - name: Create output directory
-        run: mkdir -p dist
-
-      - name: Generate Dark Mode Pacman SVG
-        run: pacman-contribution-graph --platform github --username Jyotir2004 --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+          github_user_name: Jyotir2004
+          theme: github-dark
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
