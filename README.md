@@ -11,9 +11,9 @@ width="100%"
 height="400">
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
-</p>
+</p> -->
 
 
 <h1 align="center">
