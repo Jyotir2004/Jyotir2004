@@ -2,8 +2,8 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs automatically every midnight
+  workflow_dispatch:     # Allows manual run from Actions tab
   push:
     branches:
       - main
@@ -19,11 +19,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman SVG (Dark Mode)
+      - name: Generate Pacman Contribution Graph SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Jyotir2004
-          theme: github-dark
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
