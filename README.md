@@ -136,11 +136,9 @@ flowchart LR
 
 ---
 
-
-
 <h3 align="left">📊 Pacman Contribution Graph:</h3>
 
-<p align="center">
+<p align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
 </p>
 
