@@ -139,7 +139,7 @@ flowchart LR
 <h3 align="left">📊 Contribution Graph:</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=github-dark&hide_border=true&area=true&hide_title=true" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
 </p>
 
 ## 👋 About Me
