@@ -136,10 +136,10 @@ flowchart LR
 
 ---
 
-<h3 align="left">📈 Activity Graph</h3>
+## 🟡 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00d4ff/Jyotir2004" width="100%" alt="Jyotir2004's Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" />
 </p>
 
 
