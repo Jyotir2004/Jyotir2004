@@ -1,4 +1,4 @@
-name: Generate Pacman Graph
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+      - master
 
 permissions:
   contents: write
@@ -18,15 +19,16 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph SVG
+      - name: Generate Pacman SVG (Dark Mode)
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Jyotir2004
+          theme: github-dark
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push SVG to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
