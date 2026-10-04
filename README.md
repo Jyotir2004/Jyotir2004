@@ -559,6 +559,9 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
 <a href="https://shield-essay-35599266.figma.site/"><img src="https://img.shields.io/badge/Portfolio-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Portfolio"></a>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotir2004&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
+</p>
 
 ---
 
