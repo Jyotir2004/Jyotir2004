@@ -23,7 +23,7 @@ height="400">
 
 <p align="center">
   <a href="https://github.com/Jyotir2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Engineer;Python+Backend+Developer;AI+Engineer;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+FastAPI" alt="AI/ML Engineer | Generative AI Engineer | Python Backend Developer | AI Engineer | LLMs • RAG • AI Agents • FastAPI"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Generative+AI+Engineer;Python+Backend+Developer;AI+Engineer;LLMs+%26+RAG;AI+Agents&background=0D1117" alt="AI/ML Engineer | Generative AI Engineer | Python Backend Developer | AI Engineer | LLMs & RAG | AI Agents" />
   </a>
 </p>
 
@@ -136,10 +136,10 @@ flowchart LR
 
 ---
 
-<h3 align="left">📊 Pacman Contribution Graph:</h3>
+<h3 align="left">📊 Contribution Graph:</h3>
 
-<p align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/output/pacman-contribution-graph.svg" width="100%" alt="Pacman Contribution Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyotir2004&theme=github-dark&hide_border=true&area=true&hide_title=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ## 👋 About Me
@@ -292,7 +292,7 @@ principle = "Ship it · Measure it · Make it reliable"
   <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
   <!-- <p align="center"> -->
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" /
+ <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
 </p>
 
 
