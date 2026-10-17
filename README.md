@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="./jyotiraditya_tech_banner.gif" 
+  <img src="./banner_preview.gif" 
        alt="Jyotiraditya Khatua - Generative AI Engineer"
        width="100%" />
 </div>
