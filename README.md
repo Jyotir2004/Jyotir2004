@@ -4,10 +4,6 @@
   </a>
 </div>
 
-<p align="center"> <img src=https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif alt="Python Animation" width="100%" height="400"> </p>
-
-
-
 
 <div align="center">
   <img src="./jyotiraditya_tech_banner.gif" 
