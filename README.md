@@ -8,6 +8,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <img src="./jyotiraditya_tech_banner3.0.gif"
        alt="Jyotiraditya Khatua | AI Engineer"
