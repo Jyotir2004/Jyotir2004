@@ -7,9 +7,13 @@
 
 
 
+
 <div align="center">
-  <img src="banner_preview.png" alt="Jyotiraditya Khatua - AI Engineer Banner" width="100%" />
+  <img src="./jyotiraditya_tech_banner2.0.gif"
+       alt="Jyotiraditya Khatua | AI Engineer"
+       width="100%" />
 </div>
+
 
 
 
