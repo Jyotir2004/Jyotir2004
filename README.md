@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![jyotiraditya_tech_banner](https://github.com/user-attachments/assets/xxxx-xxxx-xxxx.gif)
+<p align="center"> <img src=https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif alt="Python Animation" width="100%" height="400"> </p>
 
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/Jyotir2004/Jyotir2004/main/assets/python-ai-hero.gif" alt="Python at the center of AI, GenAI and backend workflows" width="100%">
