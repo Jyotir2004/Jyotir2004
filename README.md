@@ -781,9 +781,8 @@ Worked on data analysis and visualisation using **Python** and **Excel**.
   <img src="https://count.getloli.com/@:Jyotir2004?theme=booru-twifanartsfw&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotir2004&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
-</p>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyotir2004&theme=tokyonight&v=2" width="100%" alt="GitHub Profile Details" />
 
 ## 📫 Connect With Me
 
