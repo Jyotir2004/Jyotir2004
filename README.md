@@ -294,14 +294,12 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" /> <img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" /> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" height="58" alt="Databases" />
-    
+ <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" /> 
 </p>
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="58" height="58" alt="Django" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="58" height="58" alt="GraphQL" />
+<img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" /> 
   <!-- <p align="center"> -->
  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
 </p>
@@ -341,8 +339,8 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🗄️ Databases:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,redis,dynamodb,firebase" height="58" alt="Databases" />
+<img <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" height="58" alt="Databases" />
+    
 </p>
 
 <h3 align="center">🔧 Tools & Technologies:</h3>
