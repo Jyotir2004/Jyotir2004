@@ -290,11 +290,11 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">💻 Programming Languages:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
-  
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
-  
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" />
+
+<img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" height="58" alt="Databases" />
 
 </p>
 
