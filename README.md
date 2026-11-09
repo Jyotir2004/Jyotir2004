@@ -345,7 +345,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🔧 Tools & Technologies:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" height="46" alt="Docker">
 
   <!-- <p align="center"> -->
   <!-- Git, VS Code, Visual Studio -->
