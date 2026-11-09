@@ -294,9 +294,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
-  <!-- <p align="center"> -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,redux" style="height: 58px;" alt="Frontend Technologies" />
+ <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" /> <img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" /> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" height="58" alt="Databases" />
     
 </p>
 
