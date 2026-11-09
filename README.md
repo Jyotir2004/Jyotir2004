@@ -289,13 +289,7 @@ principle = "Ship it · Measure it · Make it reliable"
 ### 🛠️ Tech Stack And Skills
 
 <h3 align="center">💻 Programming Languages:</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" />
-
-<img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" />
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis&theme=dark" height="58" alt="Databases" />
-
+<p <h3 align="center">💻 Programming Languages:</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="58" alt="Python, JavaScript, TypeScript" /> 
 </p>
 
 <h3 align="center">🌐 Frontend Development:</h3>
