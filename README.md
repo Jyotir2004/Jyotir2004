@@ -299,7 +299,7 @@ principle = "Ship it · Measure it · Make it reliable"
 
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,graphql,fastapi,flask,nodejs,express&theme=dark" height="58" alt="Backend" /> 
+<img src="https://skillicons.dev/icons?i=django,graphql,express&theme=dark" height="58" alt="Backend" /> 
   <!-- <p align="center"> -->
  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
 </p>
