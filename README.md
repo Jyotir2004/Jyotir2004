@@ -292,7 +292,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="58" alt="Python, JavaScript, TypeScript" /> 
 </p>
 
-<!-- <h3 align="center">🌐 Frontend Development:</h3>
+<!- <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" /> 
 </p>
@@ -302,7 +302,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <img src="https://skillicons.dev/icons?i=django,graphql,express&theme=dark" height="58" alt="Backend" /> 
   < <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
 </p> -->!-- <p align="center"> -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -571,7 +571,7 @@ principle = "Ship it · Measure it · Make it reliable"
     </div>
   </div>
 </body>
-</html>
+</html> -->
 
 
 <h3 align="center">🤖 AI & Machine Learning:</h3>
