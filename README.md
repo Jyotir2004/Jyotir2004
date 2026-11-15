@@ -292,7 +292,7 @@ principle = "Ship it · Measure it · Make it reliable"
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" height="58" alt="Python, JavaScript, TypeScript" /> 
 </p>
 
-<h3 align="center">🌐 Frontend Development:</h3>
+<!-- <h3 align="center">🌐 Frontend Development:</h3>
 <p align="center">
  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" height="58" alt="Frontend" /> 
 </p>
@@ -300,9 +300,279 @@ principle = "Ship it · Measure it · Make it reliable"
 <h3 align="center">⚙️ Backend Development:</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=django,graphql,express&theme=dark" height="58" alt="Backend" /> 
-  <!-- <p align="center"> -->
- <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
-</p>
+  < <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,spring,kafka,rabbitmq" style="height: 58px;" alt="Backend Technologies" />
+</p> -->!-- <p align="center"> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Tech Stack UI</title>
+  <style>
+    :root{
+      --bg:#050d18;
+      --panel:#0b1220;
+      --line:#2b394a;
+      --text:#edf6ff;
+      --muted:#1f2b38;
+      --cyan:#5dd4e7;
+      --purple:#8d5be8;
+      --mint:#5de1c9;
+      --yellow:#f7d352;
+      --green:#3ed38a;
+      --pink:#d777e9;
+      --card:#0a1017;
+
+      --title-size: 3.2rem;
+      --pill-size: 1.75rem;
+      --card-label: 1.1rem;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: var(--bg);
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      color: var(--text);
+    }
+
+    .canvas {
+      width: 1280px;
+      max-width: 95vw;
+      background: rgba(7,15,22,0.9);
+      padding: 18px 12px 24px;
+      border: 1px solid #1b2430;
+      box-shadow: 0 0 0 1px rgba(255,255,255,0.02);
+    }
+
+    .group {
+      margin: 18px 0 14px;
+    }
+
+    .title-bar {
+      width: 100%;
+      height: 92px;
+      background: linear-gradient(90deg, #26c4d4 0%, #5d8ce6 38%, #a35ae7 100%);
+      border: 1px solid rgba(255,255,255,0.1);
+      display: grid;
+      place-items: center;
+      font-weight: 800;
+      font-size: clamp(2rem, 2.3vw, 3rem);
+      text-transform: none;
+      letter-spacing: -0.04em;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(120px, 1fr));
+      gap: 0;
+      border-left: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      margin-top: 0;
+      background: rgba(0,0,0,0.06);
+    }
+
+    .card {
+      min-height: 136px;
+      background: rgba(0,0,0,0.15);
+      border: 1px solid var(--line);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 12px 8px 10px;
+    }
+
+    .file-icon {
+      width: 46px;
+      height: 54px;
+      background: linear-gradient(180deg, #f3f0ef 0%, #d9d9d9 100%);
+      border: 2px solid rgba(17,17,21,0.6);
+      border-radius: 4px;
+      position: relative;
+      box-shadow: inset 0 0 0 1px rgba(0,0,0,0.05);
+      margin-bottom: 12px;
+    }
+
+    .file-icon::before {
+      content: "";
+      position: absolute;
+      right: -1px;
+      top: -1px;
+      width: 16px;
+      height: 16px;
+      background: linear-gradient(135deg, #d9d9d9 0%, #b7b7b7 100%);
+      clip-path: polygon(0 0, 100% 0, 100% 100%);
+      border-left: 2px solid rgba(0,0,0,0.18);
+      border-bottom: 2px solid rgba(0,0,0,0.18);
+    }
+
+    .file-icon::after {
+      content: "";
+      position: absolute;
+      left: 8px;
+      right: 8px;
+      top: 18px;
+      height: 18px;
+      background: linear-gradient(180deg, rgba(120,120,120,0.12), rgba(120,120,120,0.02));
+      border-top: 1px solid rgba(0,0,0,0.08);
+      border-bottom: 1px solid rgba(0,0,0,0.04);
+      opacity: 0.9;
+    }
+
+    .card .label {
+      font-weight: 800;
+      font-size: clamp(15px, 1.1vw, 22px);
+      letter-spacing: -0.04em;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: #f0f5ff;
+      text-shadow: 0 1px 0 rgba(0,0,0,0.6);
+    }
+
+    .card .label .star {
+      color: #f6d55b;
+      font-size: 14px;
+      transform: translateY(-1px);
+    }
+
+    .pill-row {
+      display: grid;
+      grid-template-columns: 1.25fr 1.15fr 1.1fr 1.5fr 1.2fr;
+      margin-top: 0;
+      gap: 0;
+      border-left: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .pill {
+      display: grid;
+      place-items: center;
+      min-height: 58px;
+      border: 1px solid var(--line);
+      font-weight: 900;
+      letter-spacing: 0.04em;
+      font-size: clamp(16px, 1.3vw, 30px);
+      text-transform: uppercase;
+      color: white;
+      text-shadow: 0 1px 0 rgba(0,0,0,0.4);
+    }
+
+    .pill.cyan { background: #2cc4e4; }
+    .pill.purple { background: #b960d8; }
+    .pill.yellow { background: #f0ca3c; }
+    .pill.green { background: #3cd07a; }
+    .pill.blue { background: #2cc4e4; }
+
+    .agent .title-bar {
+      background: linear-gradient(90deg, #49d7b1 0%, #7ac7d8 36%, #a68ee8 100%);
+    }
+
+    .agent .cards {
+      grid-template-columns: repeat(2, minmax(180px, 1fr));
+      max-width: 420px;
+      margin: 0 auto;
+      border: 1px solid var(--line);
+      margin-top: 0;
+    }
+
+    .agent .cards .card {
+      min-height: 130px;
+    }
+
+    .agent .pill-row {
+      grid-template-columns: 1fr 1.2fr;
+      max-width: 520px;
+      margin: 0 auto;
+      border-left: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    @media (max-width: 900px){
+      .cards { grid-template-columns: repeat(3, minmax(120px, 1fr)); }
+      .pill-row { grid-template-columns: repeat(2, minmax(160px, 1fr)); }
+      .agent .cards { grid-template-columns: repeat(2, minmax(160px, 1fr)); }
+    }
+
+    @media (max-width: 560px){
+      .cards { grid-template-columns: repeat(2, minmax(120px, 1fr)); }
+      .pill-row { grid-template-columns: 1fr; }
+      .agent .pill-row { grid-template-columns: 1fr; }
+      .title-bar { height: 72px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="canvas">
+    <div class="group gen">
+      <div class="title-bar">Gen AI</div>
+
+      <div class="cards">
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">OpenAI <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">HuggingFace <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">LangChain <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">LlamaIndex <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">Ollama <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">Groq <span class="star">★</span></div>
+        </div>
+      </div>
+
+      <div class="pill-row">
+        <div class="pill cyan">RAG Pipelines</div>
+        <div class="pill purple">Vector DBs</div>
+        <div class="pill yellow">Embeddings</div>
+        <div class="pill green">Prompt Engineering</div>
+        <div class="pill blue">Fine Tuning</div>
+      </div>
+    </div>
+
+    <div class="group agent">
+      <div class="title-bar">Agentic AI</div>
+
+      <div class="cards">
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">CrewAI <span class="star">★</span></div>
+        </div>
+        <div class="card">
+          <div class="file-icon"></div>
+          <div class="label">MCP <span class="star">★</span></div>
+        </div>
+      </div>
+
+      <div class="pill-row">
+        <div class="pill cyan">Tool Calling</div>
+        <div class="pill yellow">Multi Agent Systems</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
+
 
 <h3 align="center">🤖 AI & Machine Learning:</h3>
 <p align="center">
